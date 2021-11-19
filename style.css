@@ -12,7 +12,7 @@ ul{
 	padding: 0;
 
 }
-li{
+.shift li{
 	float: left;
 	display: inline;
 	padding: 0 20px 0 20px;
@@ -21,5 +21,23 @@ li{
 ul li{
     color: white;
     background-color: #0000FF;
-    margin: 2px
+    margin: 2px;
+    border: #f4f4f4;
+}
+
+button{
+    background-color: #0000FF;
+    float: right;
+
+}
+
+.move{
+    float: right;
+}
+th{
+    background-color: #0000FF;
+    margin: 2px;
+}
+.color{
+    background-color: #0000FF;
 }
